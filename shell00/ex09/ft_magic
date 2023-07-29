@@ -1,0 +1,4 @@
+# 42 file type
+0       string          42              File type 42
+>41     byte            42              at offset 42
+
